@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jeonghun-Ban</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonghun-ban&show_icons=true&locale=en" alt="jeonghun-ban" />
+</p>
+
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
