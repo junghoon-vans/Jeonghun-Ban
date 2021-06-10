@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonghun-ban&show_icons=true&locale=en" alt="jeonghun-ban" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonghun-ban&show_icons=true&theme=dark" alt="jeonghun-ban" />
 </p>
 
 <p align="center">
