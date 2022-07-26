@@ -1,0 +1,35 @@
+name: Update profile automatic
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 */1 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+    - name: Run update_readme.py
+      run: |
+        python update_readme.py
+    - name: Update README.md
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email "junghoon.ban@gmail.com"
+        git config --local user.name "junghoon-vans"
+        git commit -m "Update README.md"
+        git push
