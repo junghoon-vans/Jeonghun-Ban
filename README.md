@@ -9,8 +9,3 @@
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 
 ## 📚 Latest Blog Post
-- [2022/10/11 - pre-commit로 Git Hooks 쉽게 관리하기](https://vanslog.io/posts/infra/easy-to-manage-git-hooks-with-pre-commit/)
-- [2022/07/21 - [Spring] 왜 스프링인가](https://vanslog.io/posts/spring/why-spring/)
-- [2022/07/20 - 디지털배움터에서 강사로 일하며 배운점](https://vanslog.io/posts/general/what-i-learned-while-working-at-digital-competency-center/)
-- [2022/07/17 - 🔮 utterances 다이나믹 테마 적용하기](https://vanslog.io/posts/blog/apply-utterances-dynamic-theme/)
-- [2022/07/13 - 기술 블로그 개편](https://vanslog.io/posts/blog/tech-blog-reorganization/)
