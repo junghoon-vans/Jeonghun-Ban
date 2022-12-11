@@ -1,4 +1,4 @@
-name: Update profile automatic
+name: Update Profile
 
 on:
   workflow_dispatch:
