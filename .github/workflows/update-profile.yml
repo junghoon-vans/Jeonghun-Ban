@@ -18,12 +18,7 @@ jobs:
     - name: Run update_readme.py
       run: |
         python update_readme.py
-    - name: Update README.md
-      run: |
-        git pull
-        git add .
-        git diff
-        git config --local user.email "junghoon.ban@gmail.com"
-        git config --local user.name "junghoon-vans"
-        git commit -m "Update README.md"
-        git push
+    - name: Push README.md to repository
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+          commit_message: "docs: Update README.md"
