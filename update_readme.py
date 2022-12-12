@@ -7,7 +7,7 @@ RSS_FEED = feedparser.parse(RSS_URL)
 POST_NUM = 5
 
 def main():
-    shutil.copyfile('profile.md', 'README.md')
+    shutil.copyfile('template.md', 'README.md')
     with open("README.md", 'a', encoding='utf-8') as f:
         f.write(load_latest_posts())
 
