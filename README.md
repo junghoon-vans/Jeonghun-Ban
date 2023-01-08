@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 
 ## 📚 Latest Blog Post
-- [2023/01/08 - [DND 8기] 백엔드 합격 후기](https://vanslog.io/posts/general/dnd-acceptance-review/)
+- [2023/01/08 - [DND 8기] 백엔드 파트 합격 후기](https://vanslog.io/posts/general/dnd-acceptance-review/)
 - [2022/10/11 - pre-commit로 Git Hooks 쉽게 관리하기](https://vanslog.io/posts/infra/easy-to-manage-git-hooks-with-pre-commit/)
 - [2022/07/21 - [Spring] 왜 스프링인가](https://vanslog.io/posts/web/spring/why-spring/)
 - [2022/07/20 - 디지털배움터에서 강사로 일하며 배운점](https://vanslog.io/posts/general/what-i-learned-while-working-at-digital-competency-center/)
