@@ -11,6 +11,6 @@
 ## 📚 Latest Blog Post
 - [2023/01/21 - 공식 Actions를 활용한 GitHub Pages 배포](https://vanslog.io/posts/devops/deploy-github-pages-with-actions/)
 - [2023/01/15 - SonarCloud와 Checkstyle을 통합하여 사용하기](https://vanslog.io/posts/devops/interate-sonarcloud-with-checkstyle/)
-- [2023/01/08 - [DND 8기] 백엔드 파트 합격 후기](https://vanslog.io/posts/general/dnd-acceptance-review/)
+- [2023/01/08 - [DND 8기] 백엔드 개발자 합격 후기](https://vanslog.io/posts/retrospective/dnd/dnd-8th-backend-developer-acceptance-review/)
 - [2022/10/11 - pre-commit로 Git Hooks 쉽게 관리하기](https://vanslog.io/posts/infra/easy-to-manage-git-hooks-with-pre-commit/)
 - [2022/07/21 - [Spring] 왜 스프링인가](https://vanslog.io/posts/web/spring/why-spring/)
