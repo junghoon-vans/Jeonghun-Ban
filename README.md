@@ -10,8 +10,8 @@
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 
 ## 📚 Latest Blog Post
-- [2023/07/26 - Spring Data MeiliSearch #1 - 네임스페이스 기반 설정](https://vanslog.io/posts/project/spring-data-meilisearch/namespace-based-configuration/)
+- [2023/07/26 - Spring Data Meilisearch #1 - 네임스페이스 기반 설정](https://vanslog.io/posts/project/spring-data-meilisearch/namespace-based-configuration/)
 - [2023/07/21 - Meilisearch를 위한 Testcontainers 라이브러리 개발기](https://vanslog.io/posts/project/testcontainers-meilisearch/)
-- [2023/06/28 - Spring Data MeiliSearch #0 - 프로젝트 소개](https://vanslog.io/posts/project/spring-data-meilisearch/introduction/)
+- [2023/06/28 - Spring Data Meilisearch #0 - 프로젝트 소개](https://vanslog.io/posts/project/spring-data-meilisearch/introduction/)
 - [2023/05/05 - [Java] 왜 Stack 대신 Deque를 사용하는가?](https://vanslog.io/posts/language/java/why-use-deque-instead-of-stack/)
 - [2023/03/23 - Jib과 GitHub Actions를 사용한 ECS 배포 자동화](https://vanslog.io/posts/devops/automate-ecs-deployments-with-jib-and-github-actions/)
