@@ -6,8 +6,13 @@
 
 ## 🧑🏻‍💻 Who am I
 
-- Backend Developer who loves to build things for the JVM ecosystem.
-- I'm mainly using Java but also interested in Scala, Kotlin, and Python.
-- I'm currently working for contributing to Spring Data Implementations.
+Polyglot Developer
+
+Believe that no technology can solve every problem.<br>
+That's why I decided to become a Polyglot Developer.
+
+- Kotlin, Java, Scala
+- TS, JS, Python
+- And probably more.
 
 ## 📚 Latest Blog Post
